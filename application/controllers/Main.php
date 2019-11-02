@@ -67,12 +67,12 @@ class Main extends CI_Controller {
         );
 
         $rhinoInfo = array(
-            "Delilah" => "Delilah info",
-            "Harapan" => "Harapan info",
-            "Andatu" => "Andatu info",
-            "Ratu" => "Ratu info",
-            "Bina" => "Bina info",
-            "Rosa" => "Rosa info", 
+            "Delilah" => "Advanturous",
+            "Harapan" => "Advanturous",
+            "Andatu" => "Independent/ Strong willed",
+            "Ratu" => "Independent/ Strong willed",
+            "Bina" => "Gentle & Kind",
+            "Rosa" => "Gentle & Kind", 
         );
         $rand_rhino = array_rand($myRhino, 2);
 
