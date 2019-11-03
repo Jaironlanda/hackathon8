@@ -67,8 +67,8 @@ class Main extends CI_Controller {
         );
 
         $rhinoInfo = array(
-            "Delilah" => "Advanturous",
-            "Harapan" => "Advanturous",
+            "Delilah" => "Adventurous",
+            "Harapan" => "Adventurous",
             "Andatu" => "Independent/ Strong willed",
             "Ratu" => "Independent/ Strong willed",
             "Bina" => "Gentle & Kind",
